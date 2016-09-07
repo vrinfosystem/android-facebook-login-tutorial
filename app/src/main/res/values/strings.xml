@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FbInt</string>
+    <string name="facebook_app_id">Enter Your facebook app key</string>
+</resources>
